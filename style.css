@@ -1,0 +1,90 @@
+body {
+  background-color: #141414;
+  padding-left: 3%;
+  padding-right: 3%;
+}
+
+.navbar {
+  padding-left: 3rem;
+}
+
+.navbar.two {
+  padding-right: 4.5rem !important;
+}
+
+.nav-item:hover {
+  scale: 1.2;
+}
+
+.NetflixLogo {
+  width: 16%;
+}
+
+.container-fluid {
+  justify-content: flex-start !important;
+}
+
+.but {
+  border: 1px solid rgb(134, 134, 134) !important;
+}
+
+.but.bg-transparent.text-white {
+  width: 16% !important;
+}
+
+.but:hover {
+  border: 1px solid white !important;
+  background-color: black;
+}
+
+.col-6.d-flex.content-center.justify-content-end {
+  padding-right: 4.5rem !important;
+  align-items: center;
+}
+
+.film {
+  aspect-ratio: 16/9;
+}
+
+.col-xl-2.col-lg-4.col-md-6.col-sm-12:hover {
+  transform: scale(1.5);
+  transition: transform 0.1s ease-in-out;
+}
+
+.carousel-control-prev {
+  justify-content: start;
+}
+
+.carousel-control-next {
+  justify-content: end;
+}
+
+.carousel-inner {
+  overflow: visible;
+}
+
+h4 {
+  padding-top: 2rem !important;
+  padding-left: 4.5rem;
+}
+
+footer {
+  color: #7f7f7f;
+  padding-top: 5rem;
+}
+
+.butfooter {
+  width: 40%;
+  border: 1px solid #7f7f7f !important;
+  color: #7f7f7f !important;
+}
+
+.social {
+  background-color: #7f7f7f !important;
+  border: none;
+}
+
+.col.small {
+  padding-left: 0.75rem;
+  padding-bottom: 2rem !important;
+}
